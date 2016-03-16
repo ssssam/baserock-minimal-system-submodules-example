@@ -1,0 +1,93 @@
+[submodule "definitions"]
+	path = definitions
+	url = git://git.baserock.org/baserock/baserock/definitions
+[submodule "gcc-tarball"]
+	path = gcc-tarball
+	url = git://git.baserock.org/delta/gcc-tarball
+[submodule "libxml2"]
+	path = libxml2
+	url = git://git.baserock.org/delta/libxml2
+[submodule "make-tarball"]
+	path = make-tarball
+	url = git://git.baserock.org/delta/make-tarball
+[submodule "autoconf"]
+	path = autoconf
+	url = git://git.baserock.org/delta/autoconf
+[submodule "linux"]
+	path = linux
+	url = git://git.baserock.org/delta/linux
+[submodule "sqlite3"]
+	path = sqlite3
+	url = git://git.baserock.org/delta/sqlite3
+[submodule "busybox"]
+	path = busybox
+	url = git://git.baserock.org/delta/busybox
+[submodule "libseccomp"]
+	path = libseccomp
+	url = git://git.baserock.org/delta/libseccomp
+[submodule "libtool-tarball"]
+	path = libtool-tarball
+	url = git://git.baserock.org/delta/libtool-tarball
+[submodule "openssl-new"]
+	path = openssl-new
+	url = git://git.baserock.org/delta/openssl-new
+[submodule "glibc"]
+	path = glibc
+	url = git://git.baserock.org/delta/glibc
+[submodule "texinfo-tarball"]
+	path = texinfo-tarball
+	url = git://git.baserock.org/delta/texinfo-tarball
+[submodule "curl"]
+	path = curl
+	url = git://git.baserock.org/delta/curl
+[submodule "asciidoc"]
+	path = asciidoc
+	url = git://git.baserock.org/delta/asciidoc
+[submodule "cmake"]
+	path = cmake
+	url = git://git.baserock.org/delta/cmake
+[submodule "bash"]
+	path = bash
+	url = git://git.baserock.org/delta/bash
+[submodule "libffi"]
+	path = libffi
+	url = git://git.baserock.org/delta/libffi
+[submodule "linux-pam"]
+	path = linux-pam
+	url = git://git.baserock.org/delta/linux-pam
+[submodule "cpython"]
+	path = cpython
+	url = git://git.baserock.org/delta/cpython
+[submodule "shadow"]
+	path = shadow
+	url = git://git.baserock.org/delta/shadow
+[submodule "libcap2"]
+	path = libcap2
+	url = git://git.baserock.org/delta/libcap2
+[submodule "python-markdown"]
+	path = python-markdown
+	url = git://git.baserock.org/delta/python-markdown
+[submodule "bc-tarball"]
+	path = bc-tarball
+	url = git://git.baserock.org/delta/bc-tarball
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = git://git.baserock.org/delta/e2fsprogs
+[submodule "cython"]
+	path = cython
+	url = git://git.baserock.org/delta/cython
+[submodule "pkg-config"]
+	path = pkg-config
+	url = git://git.baserock.org/delta/pkg-config
+[submodule "XML-Parser"]
+	path = XML-Parser
+	url = git://git.baserock.org/delta/XML-Parser
+[submodule "gdbm-tarball"]
+	path = gdbm-tarball
+	url = git://git.baserock.org/delta/gdbm-tarball
+[submodule "jsonschema"]
+	path = jsonschema
+	url = git://git.baserock.org/delta/jsonschema
+[submodule "binutils-tarball"]
+	path = binutils-tarball
+	url = git://git.baserock.org/delta/binutils-tarball
