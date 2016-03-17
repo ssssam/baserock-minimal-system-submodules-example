@@ -91,3 +91,173 @@
 [submodule "binutils-tarball"]
 	path = binutils-tarball
 	url = git://git.baserock.org/delta/binutils-tarball
+[submodule "git"]
+	path = git
+	url = git://git.baserock.org/delta/git
+[submodule "perl"]
+	path = perl
+	url = git://git.baserock.org/delta/perl
+	branch = baserock/morph
+[submodule "zlib"]
+	path = zlib
+	url = git://git.baserock.org/delta/zlib
+[submodule "docbook-xsl"]
+	path = docbook-xsl
+	url = git://git.baserock.org/delta/docbook-xsl
+	branch = master
+[submodule "gawk"]
+	path = gawk
+	url = git://git.baserock.org/delta/gawk
+	branch = master
+[submodule "gettext-tarball"]
+	path = gettext-tarball
+	url = git://git.baserock.org/delta/gettext-tarball
+	branch = master
+[submodule "autoconf-tarball"]
+	path = autoconf-tarball
+	url = git://git.baserock.org/delta/autoconf-tarball
+	branch = master
+[submodule "bzip2"]
+	path = bzip2
+	url = git://git.baserock.org/delta/bzip2
+	branch = master
+[submodule "m4-tarball"]
+	path = m4-tarball
+	url = git://git.baserock.org/delta/m4-tarball
+	branch = master
+[submodule "attr"]
+	path = attr
+	url = git://git.baserock.org/delta/attr
+	branch = master
+[submodule "util-linux"]
+	path = util-linux
+	url = git://git.baserock.org/delta/util-linux
+	branch = master
+[submodule "syslinux"]
+	path = syslinux
+	url = git://git.baserock.org/delta/syslinux
+	branch = master
+[submodule "patch"]
+	path = patch
+	url = git://git.baserock.org/delta/patch
+	branch = master
+[submodule "gperf"]
+	path = gperf
+	url = git://git.baserock.org/delta/gperf
+	branch = master
+[submodule "linux-stable"]
+	path = linux-stable
+	url = git://git.baserock.org/delta/linux-stable
+	branch = master
+[submodule "help2man"]
+	path = help2man
+	url = git://git.baserock.org/delta/help2man
+	branch = master
+[submodule "acl"]
+	path = acl
+	url = git://git.baserock.org/delta/acl
+	branch = master
+[submodule "fhs-dirs"]
+	path = fhs-dirs
+	url = git://git.baserock.org/baserock/baserock/fhs-dirs
+	branch = master
+[submodule "mako.git"]
+	path = mako
+	url = git://git.baserock.org/delta/python-packages/mako.git
+	branch = master
+[submodule "bison"]
+	path = bison
+	url = git://git.baserock.org/delta/bison
+	branch = master
+[submodule "automake"]
+	path = automake
+	url = git://git.baserock.org/delta/automake
+	branch = master
+[submodule "libexpat"]
+	path = libexpat
+	url = git://git.baserock.org/delta/libexpat
+	branch = master
+[submodule "ca-certificates"]
+	path = ca-certificates
+	url = git://git.baserock.org/delta/ca-certificates
+	branch = master
+[submodule "python-setuptools-bitbucket"]
+	path = python-setuptools-bitbucket
+	url = git://git.baserock.org/delta/python-setuptools-bitbucket
+	branch = master
+[submodule "readline"]
+	path = readline
+	url = git://git.baserock.org/delta/readline
+	branch = master
+[submodule "mini-utils"]
+	path = mini-utils
+	url = git://git.baserock.org/baserock/baserock/mini-utils
+	branch = master
+[submodule "file"]
+	path = file
+	url = git://git.baserock.org/delta/file
+	branch = master
+[submodule "libtool"]
+	path = libtool
+	url = git://git.baserock.org/delta/libtool
+	branch = master
+[submodule "libxslt"]
+	path = libxslt
+	url = git://git.baserock.org/delta/libxslt
+	branch = master
+[submodule "pyyaml"]
+	path = pyyaml
+	url = git://git.baserock.org/delta/pyyaml
+	branch = master
+[submodule "xml-catalog"]
+	path = xml-catalog
+	url = git://git.baserock.org/baserock/baserock/xml-catalog
+	branch = master
+[submodule "ccache"]
+	path = ccache
+	url = git://git.baserock.org/delta/ccache
+	branch = master
+[submodule "flex"]
+	path = flex
+	url = git://git.baserock.org/delta/flex
+	branch = master
+[submodule "ncurses"]
+	path = ncurses
+	url = git://git.baserock.org/delta/ncurses
+	branch = master
+[submodule "intltool"]
+	path = intltool
+	url = git://git.baserock.org/delta/intltool
+	branch = baserock/morph
+[submodule "python-requests"]
+	path = python-requests
+	url = git://git.baserock.org/delta/python-requests
+	branch = master
+[submodule "xz"]
+	path = xz
+	url = git://git.baserock.org/delta/xz
+	branch = master
+[submodule "python-lxml"]
+	path = python-lxml
+	url = git://git.baserock.org/delta/python-lxml
+	branch = master
+[submodule "docbook-xml"]
+	path = docbook-xml
+	url = git://git.baserock.org/delta/docbook-xml
+	branch = master
+[submodule "pbr"]
+	path = pbr
+	url = git://git.baserock.org/delta/pbr
+	branch = master
+[submodule "xmlto-tarball"]
+	path = xmlto-tarball
+	url = git://git.baserock.org/delta/xmlto-tarball
+	branch = master
+[submodule "six"]
+	path = six
+	url = git://git.baserock.org/delta/six
+	branch = master
+[submodule "nasm"]
+	path = nasm
+	url = git://git.baserock.org/delta/nasm
+	branch = master
